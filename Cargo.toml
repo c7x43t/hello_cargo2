@@ -1,0 +1,8 @@
+[package]
+name = "hello_cargo2"
+version = "0.1.0"
+authors = ["c7x43t <c7x43t@gmail.com>"]
+edition = "2018"
+
+[dependencies]
+sprs = "0.6.4"
